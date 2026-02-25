@@ -12,7 +12,7 @@
 
 筑波大学 計算科学研究センター  
 - [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab-ja/%E3%83%9B%E3%83%BC%E3%83%A0)
-- [GATE Institute](https://www.gate-ai.eu/en/home/)（Sofia University “St. Kliment Ohridski”, Bulgaria）研究インターン  
+- [GATE Institute](https://www.gate-ai.eu/en/home/)（Sofia University “St. Kliment Ohridski”, Bulgaria）研究インターン (2025/7-)
 
 ---
 
