@@ -1,3 +1,5 @@
+# 中村洸貴
+
 ## 経歴
 
 筑波大学大学院  
@@ -42,10 +44,10 @@ College of Geoscience (Apr 2021 – Mar 2025)
 
 ## Affiliations
 
-**Center for Computational Sciences (CCS), University of Tsukuba**  
-- Atmospheric Informatics Laboratory  
+**[Center for Computational Sciences (CCS), University of Tsukuba](https://www.ccs.tsukuba.ac.jp/eng/)**  
+- [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab/home?authuser=0)  
 
-**GATE Institute**, Sofia University “St. Kliment Ohridski”, Bulgaria  
+**[GATE Institute](https://www.gate-ai.eu/en/home/)**, Sofia University “St. Kliment Ohridski”, Bulgaria  
 Research Intern (Jul 2025 – )
 
 ---
