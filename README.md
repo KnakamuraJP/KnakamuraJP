@@ -14,7 +14,8 @@
 
 [筑波大学 計算科学研究センター](https://www.ccs.tsukuba.ac.jp/)
 - [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab-ja/%E3%83%9B%E3%83%BC%E3%83%A0)
-- [GATE研究所,ブルガリア・ソフィア大学](https://www.gate-ai.eu/en/home/) 研究インターン (2025/7-)
+- [GATE研究所,ブルガリア・ソフィア大学](https://www.gate-ai.eu/en/home/) 
+-研究インターン (2025/7-)
 
 ---
 
@@ -22,7 +23,7 @@
 
 ### 日本気象学会 2025年度春季大会
 - オンラインポスター発表  
-  - 「畳み込みニューラルネットワークを用いた AI 気候ダウンスケーリング手法の技術的可能性の探求」
+「畳み込みニューラルネットワークを用いた AI 気候ダウンスケーリング手法の技術的可能性の探求」
 
 ### 筑波会議 2025  
 [Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01)（口頭発表）  
