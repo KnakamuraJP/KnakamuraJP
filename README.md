@@ -23,8 +23,6 @@
 ### 日本気象学会 2025年度春季大会
 - オンラインポスター発表  
   - 「畳み込みニューラルネットワークを用いた AI 気候ダウンスケーリング手法の技術的可能性の探求」
-- 共著  
-  - 「高解像度実験（125m）の３次元可視化の取り組み」
 
 ### 筑波会議 2025  
 [Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01)（口頭発表）  
@@ -58,9 +56,6 @@ College of Geoscience (Apr 2021 – Mar 2025)
 
 - **Online Poster Presentation**  
   *Exploring the Technical Feasibility of AI-Based Climate Downscaling Using Convolutional Neural Networks*
-
-- **Co-author**  
-  *Three-Dimensional Visualization of High-Resolution (125 m) Numerical Experiments*
 
 ---
 
