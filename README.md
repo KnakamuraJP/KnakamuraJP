@@ -43,7 +43,7 @@ College of Geoscience (Apr 2021 – Mar 2025)
 ## Affiliations
 
 **[Center for Computational Sciences (CCS), University of Tsukuba](https://www.ccs.tsukuba.ac.jp/eng/)**  
-- [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab/home?authuser=0)  
+- [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab/home?authuser=0) (2024/1-)  
 
 - [GATE Institute, Sofia University “St. Kliment Ohridski”, Bulgaria](https://www.gate-ai.eu/en/home/) Research Intern (Jul 2025 – )
 
