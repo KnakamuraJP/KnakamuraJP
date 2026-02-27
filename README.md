@@ -26,7 +26,7 @@
 
 ### 筑波会議 2025  
 [Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01)（口頭発表）  
-- "From Global to Local: High-Resolution Climate Data and AI Possibility"
+- From Global to Local: High-Resolution Climate Data and AI Possibility
 
 # Koki Nakamura
 
@@ -45,7 +45,7 @@ College of Geoscience (Apr 2021 – Mar 2025)
 **[Center for Computational Sciences (CCS), University of Tsukuba](https://www.ccs.tsukuba.ac.jp/eng/)**  
 - [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab/home?authuser=0)  
 
-- [GATE Institute, Sofia University “St. Kliment Ohridski”, Bulgaria](https://www.gate-ai.eu/en/home/)**  Research Intern (Jul 2025 – )
+- [GATE Institute, Sofia University “St. Kliment Ohridski”, Bulgaria](https://www.gate-ai.eu/en/home/) Research Intern (Jul 2025 – )
 
 ---
 
