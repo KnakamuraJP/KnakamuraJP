@@ -25,8 +25,8 @@
 畳み込みニューラルネットワークを用いた AI 気候ダウンスケーリング手法の技術的可能性の探求
 
 ### 筑波会議 2025  
-[Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01)（口頭発表）  
-- From Global to Local: High-Resolution Climate Data and AI Possibility
+- [Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01)（口頭発表）  
+From Global to Local: High-Resolution Climate Data and AI Possibility
 
 # Koki Nakamura
 
