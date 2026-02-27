@@ -12,8 +12,8 @@
 
 ## 所属
 
-[筑波大学 計算科学研究センター](https://www.ccs.tsukuba.ac.jp/) (2024/1-)
-- [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab-ja/%E3%83%9B%E3%83%BC%E3%83%A0)
+[筑波大学 計算科学研究センター](https://www.ccs.tsukuba.ac.jp/)
+- [Atmospheric Informatics Laboratory](https://sites.google.com/view/atmos-info-lab-ja/%E3%83%9B%E3%83%BC%E3%83%A0) (2024/1-)
 - [GATE研究所,ブルガリア・ソフィア大学](https://www.gate-ai.eu/en/home/) 研究インターン (2025/7-)
 
 ---
