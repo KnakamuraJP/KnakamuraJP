@@ -60,6 +60,6 @@ College of Geoscience (Apr 2021 – Mar 2025)
 
 ### Tsukuba Conference 2025
 
-[Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01) (Oral Presentation)
+- [Smart Cities and Digital Health Futures](https://tsukuba-conference.com/sessions/s-01) (Oral Presentation)
 
-- *From Global to Local: High-Resolution Climate Data and AI Possibility*
+  *From Global to Local: High-Resolution Climate Data and AI Possibility*
